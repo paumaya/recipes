@@ -1,2 +1,4 @@
-# recipes
-Find recipe in Recipe Puppy (CSSx Project)
+# A Recipe WebApp
+
+This recipe webapp runs on Google App Engine and uses the Recipe Puppy API to allow you to search for recipes and display search results.
+(CSSIx Project)
